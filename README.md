@@ -4,20 +4,28 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img src="./assets/banner-light.png" alt="Victor Wanyungu." width="480">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <img src="./banner-light.png" alt="Victor Wanyungu." width="480">
 </picture>
 
 <br>
 
-**Full-stack developer based in Nairobi, Kenya.** Experienced with both structired and unstructured databases and across various frameworks and languages depending on project requirements
+<br>
+
+**Software developer based in Nairobi, Kenya.** 
+
+<br>
+
+<!-- Experienced with both structired and unstructured databases and across various frameworks and languages depending on project requirements -->
 
 `FULL-STACK DEVELOPER` · `BACKEND FOCUS`
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-047857?style=for-the-badge&logo=firefox&logoColor=white)](https://victorwanyungu.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorwanyungu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VWanyungu)
+[![Revision Access Point (Project)](https://img.shields.io/badge/RAP-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://rap.co.ke/)
 
 <br>
 
